@@ -1,0 +1,4 @@
+#phaser-example {
+    height: 100vh; /* 100% of the viewport height */
+    width: 100%;   /* 100% of the parent's width */
+}
